@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "temporal-peak-detection"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Peihan
+repository-code: "https://github.com/VanillaChocoCake/temporal-peak-detection"
+license: MIT
+preferred-citation:
+  type: article
+  title: "High-accuracy Schottky diagnostics for low-SNR betatron tune measurement in ramping synchrotrons"
+  authors:
+    - family-names: Sun
+      given-names: Peihan
+    - family-names: Zhang
+      given-names: Manzhou
+    - family-names: Yuan
+      given-names: Renxian
+    - family-names: Li
+      given-names: Deming
+    - family-names: Dong
+      given-names: Jian
+    - family-names: Shi
+      given-names: Ying
+  journal: "Journal of Instrumentation"
+  volume: 20
+  issue: "06"
+  start: "P06058"
+  year: 2025
+  doi: "10.1088/1748-0221/20/06/P06058"
